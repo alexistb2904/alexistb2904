@@ -1,4 +1,5 @@
-<b>Mes Statistiques Github</b>
+<b>Mes Statistiques Github</b> 
+<br>![](https://komarev.com/ghpvc/?username=alexistb2904&color=red)
 
 <a href="http://www.github.com/alexistb2904"><img src="https://github-readme-stats.vercel.app/api?username=alexistb2904&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=22272e&hide_border=true&show_icons=true" alt="alexistb2904's GitHub stats" /></a>
 
